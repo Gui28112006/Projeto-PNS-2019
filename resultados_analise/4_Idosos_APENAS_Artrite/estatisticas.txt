@@ -3,38 +3,38 @@ ANÁLISE GEOGRÁFICA: 4_Idosos_APENAS_Artrite
 
 --- Número de Entrevistados por Região ---
 Regiao
-Centro-Oeste     53
-Nordeste        137
-Norte            84
-Sudeste          84
-Sul              56
+Centro-Oeste    188
+Nordeste        601
+Norte           368
+Sudeste         334
+Sul             199
 
 --- Número de Entrevistados por Estado ---
 Estado
-Acre                    9
-Alagoas                15
-Amapá                   4
-Amazonas               18
-Bahia                  16
-Ceará                  24
-Distrito Federal        4
-Espírito Santo         18
-Goiás                  19
-Maranhão               32
-Mato Grosso            11
-Mato Grosso do Sul     19
-Minas Gerais           22
-Paraná                 17
-Paraíba                21
-Pará                   31
-Pernambuco             15
-Piauí                  19
-Rio Grande do Norte    23
-Rio Grande do Sul      23
-Rio de Janeiro         36
-Rondônia                4
-Roraima                 7
-Santa Catarina         16
-Sergipe                12
-São Paulo              26
-Tocantins              11
+Acre                    37
+Alagoas                 68
+Amapá                   38
+Amazonas                66
+Bahia                   86
+Ceará                   73
+Distrito Federal        45
+Espírito Santo          84
+Goiás                   58
+Maranhão               123
+Mato Grosso             40
+Mato Grosso do Sul      45
+Minas Gerais           105
+Paraná                  71
+Paraíba                 74
+Pará                   115
+Pernambuco              88
+Piauí                   65
+Rio Grande do Norte     59
+Rio Grande do Sul       57
+Rio de Janeiro          96
+Rondônia                36
+Roraima                 31
+Santa Catarina          71
+Sergipe                104
+São Paulo              133
+Tocantins               45
